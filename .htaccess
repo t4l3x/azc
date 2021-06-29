@@ -1,0 +1,51 @@
+<IfModule mod_rewrite.c>
+
+#Options +FollowSymLinks
+#Options -Indexes +FollowSymLinks -ExecCGI -Includes
+FileETag None
+IndexIgnore */*
+
+RewriteEngine on
+
+</IfModule>
+
+
+<IfModule mod_rewrite.c>
+
+    # deal with admin first
+
+    RewriteCond %{REQUEST_URI} ^/(admin)
+    RewriteRule ^admin/assets/(.*)$ /backend/web/assets/$1 [L]
+    RewriteRule ^admin/css/(.*)$ /backend/web/css/$1 [L]
+    RewriteRule ^admin/uploads/(.*)$ backend/web/uploads/$1 [L]
+    RewriteRule ^admin/fancybox/(.*)$ backend/web/fancybox/$1 [L]
+    RewriteRule ^admin/plugins/(.*)$ /backend/web/plugins/$1 [L]
+
+    RewriteCond %{REQUEST_URI} !^/backend/web/(assets|css|uploads|fancybox)/
+    RewriteCond %{REQUEST_URI} ^/(admin)
+    RewriteRule ^.*$ /backend/web/index.php [L]
+
+    RewriteCond %{REQUEST_URI} ^/(assets|css|uploads|images|js|fancybox|slick|magnific-popup|html|layerslider)
+    RewriteRule ^assets/(.*)$ /frontend/web/assets/$1 [L]
+    RewriteRule ^css/(.*)$ /frontend/web/css/$1 [L]
+    RewriteRule ^js/(.*)$ /frontend/web/js/$1 [L]
+    RewriteRule ^fonts/(.*)$ /frontend/web/fonts/$1 [L]
+    RewriteRule ^fancybox/(.*)$ /frontend/web/fancybox/$1 [L]
+    RewriteRule ^images/(.*)$ /frontend/web/images/$1 [L]
+    RewriteRule ^img/(.*)$ /frontend/web/img/$1 [L]
+    RewriteRule ^layerslider/(.*)$ /frontend/web/layerslider/$1 [L]
+    RewriteRule ^uploads/(.*)$ /frontend/web/uploads/$1 [L]
+    RewriteRule ^slick/(.*)$ /frontend/web/slick/$1 [L]
+    RewriteRule ^magnific-popup/(.*)$ /frontend/web/slick/$1 [L]
+    RewriteRule ^template/(.*)$ template/$1 [L]
+
+
+    RewriteCond %{REQUEST_URI} !^/(frontend|backend|app|vendors)/web/(assets|css|uploads|js|images|img|fancybox|slick|magnific-popup|layerslider|template|fonts|plugins)
+    RewriteCond %{REQUEST_URI} !index.php
+    RewriteCond %{REQUEST_FILENAME} !-f [OR]
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^.*$ frontend/web/index.php
+    RewriteRule ^uploads_thumbs/(.*)$ /frontend/web/uploads_thumbs/$1 [L]
+</IfModule>
+
+# END Expire headers

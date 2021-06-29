@@ -1,0 +1,393 @@
+# Webalizer V2.23-08 Incremental Data - 06/26/2021 22:15:55
+2021 6 26 22 15 55
+312 113 40 39 14 25 1622085 262 48 0
+1 2 73 1 26
+10 1 14321 1 10 1
+3 1 14322 1 3 1
+13 4 42576 4 13 4
+1 1 0 1 1 1
+10 1 14322 1 10 1
+4 1 4280 1 4 1
+3 2 7518 2 3 2
+83 68 726365 3 43 3
+10 1 14325 1 10 1
+13 2 14738 3 13 3
+1 1 0 1 1 1
+20 2 28638 2 20 2
+16 3 24660 3 16 3
+25 12 576326 6 19 7
+10 1 14322 1 10 1
+1 1 3653 1 1 1
+20 2 28639 2 20 2
+21 3 28644 3 21 3
+15 3 18605 3 15 3
+17 3 24861 3 17 3
+7 0 8096 2 5 2
+7 0 10264 1 5 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 2610 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 0 10264 5
+11 2 14320 11
+4 2 17976 4
+9 4 12012 9
+0 0 0 0
+0 0 0 0
+4 2 7724 4
+0 0 0 0
+10 1 14320 10
+34 4 47246 34
+22 9 569755 16
+21 3 28637 21
+21 3 28644 21
+0 0 0 0
+4 2 4069 4
+1 1 0 1
+73 67 712045 33
+0 0 0 0
+0 0 0 0
+30 3 42965 30
+21 3 32292 21
+21 4 29142 21
+13 2 31060 13
+6 1 19614 4
+0
+0
+0
+113
+0
+0
+0
+0
+0
+0
+0
+0
+120
+0
+0
+0
+0
+2
+0
+0
+0
+77
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/c0dadce4/js/bootstrap.js
+0 3 7235314276347412480 107744 0 0
+/admin/assets/6ed9211e/js/kv-widgets.js
+0 1 7234308422695745138 518 0 0
+/admin/assets/1c5891e/yii.js
+0 2 6309527 11626 0 0
+/en/api/phone-numbers/filter
+0 8 3907265418056066609 5534 0 0
+/admin/assets/c0dadce4/fonts/glyphicons-halflings-regular.woff2
+0 1 7146703729779307887 18028 0 0
+/admin/en/phone-numbers/create
+0 1 3975893648057840941 2488 0 0
+/en/api/phone-numbers/
+0 2 3760559759140465977 4044 0 0
+/admin/css/site.css
+0 1 3630855016026617396 746 0 0
+/admin/assets/e0f41c6f/js/select2.full.js
+0 1 35738848 38244 0 0
+/admin/assets/c0dadce4/js/bootstrap.js
+0 2 0 32260 0 0
+/admin/assets/1c5891e/yii.activeForm.js
+0 2 0 14310 0 0
+/admin/assets/6ed9211e/css/kv-widgets.css
+0 1 0 416 0 0
+/en/api/phone-numbers/prefix
+0 2 0 170 0 0
+/js/app.js
+0 3 0 4768 0 0
+/admin/en/operator/index
+0 1 0 1660 0 0
+/admin/assets/a3dab60f/css/select2-krajee.css
+0 1 0 2886 0 0
+/admin/en/phone-numbers/index
+0 1 0 2243 0 0
+/admin/assets/a3dab60f/css/loading.gif
+1 1 0 1737 0 0
+/admin/assets/e0f41c6f/css/select2.css
+0 1 0 2243 0 0
+/admin/assets/c0dadce4/css/bootstrap.css
+0 1 0 21275 0 0
+/admin/assets/543e5ece/jquery.js
+0 2 0 166552 0 0
+/assets/c0dadce4/css/bootstrap.css.map
+0 1 0 75548 0 0
+/admin/assets/8507c529/jquery.pjax.js
+0 2 0 18260 0 0
+/admin/en/vendors/index
+0 1 0 1759 0 0
+/css/site.css
+0 3 0 10730 0 0
+/assets/c0dadce4/css/bootstrap.css
+0 3 0 188483 0 0
+/admin/assets/a3dab60f/css/select2-addl.css
+0 1 0 455 0 0
+/assets/543e5ece/jquery.js
+0 3 0 446916 0 0
+/
+0 39 0 151994 43 7
+/admin/assets/6ed9211e/img/loading-plugin.gif
+1 1 0 847 0 0
+/admin/en/site/login
+0 2 0 3204 0 0
+/en/api/phone-numbers/categories
+0 2 0 110 0 0
+/admin/assets/1c5891e/yii.gridView.js
+0 1 0 2624 0 0
+/assets/1c5891e/yii.js
+0 3 0 32560 0 0
+/en/api/phone-numbers/vendors
+0 2 0 346 0 0
+/admin/assets/1c5891e/yii.validation.js
+0 2 0 6026 0 0
+/admin/assets/a3dab60f/js/select2-krajee.js
+0 1 0 2014 0 0
+/en/api/phone-numbers/index
+0 5 0 5221 0 0
+/en
+0 3 0 21401 0 0
+# End Of Table - urls
+# -sites- (monthly)
+121.5.147.119
+0 2 0 418 1 1623682220
+/
+vmi506064.contaboserver.net
+0 2 0 2610 1 1624745755
+-
+139.155.54.119
+0 4 2 7730 1 1623556483
+/
+42.193.8.97
+0 2 1 3860 1 1623651884
+/
+161.35.130.171
+0 1 1 14128 1 1622762078
+/
+ec2-18-229-73-207.sa-east-1.compute.amazonaws.com
+0 10 1 14320 1 1622709689
+-
+ec2-34-215-69-55.us-west-2.compute.amazonaws.com
+0 10 1 14320 1 1623147181
+-
+idc.yundic.net
+0 2 0 2610 1 1623581170
+-
+132.232.75.2
+0 5 2 7930 1 1624222821
+/
+42.193.23.126
+0 1 1 3654 1 1623638619
+/
+ec2-13-124-222-242.ap-northeast-2.compute.amazonaws.com
+0 10 1 14323 1 1624019896
+-
+ec2-13-228-104-57.ap-southeast-1.compute.amazonaws.com
+0 10 1 14319 1 1623961651
+-
+ec2-13-233-73-212.ap-south-1.compute.amazonaws.com
+0 10 1 14325 1 1623231056
+-
+ec2-35-183-60-188.ca-central-1.compute.amazonaws.com
+0 10 1 14319 1 1623532033
+-
+132.232.81.163
+0 4 1 4280 1 1622972424
+/
+ec2-35-181-112-20.eu-west-3.compute.amazonaws.com
+0 10 1 14322 1 1623796921
+-
+ec2-52-64-20-252.ap-southeast-2.compute.amazonaws.com
+0 10 1 14319 1 1623495640
+-
+ec2-34-241-77-13.eu-west-1.compute.amazonaws.com
+0 10 1 14321 1 1624191038
+-
+prod-nyc3-1.qencode-master-113fea9ec4b011ebb51f826e085440ea
+0 1 1 14128 1 1622760664
+/
+94.20.61.190
+0 25 20 189949 1 1623170447
+/en/api/phone-numbers/filter
+403072.cloudwaysapps.com
+0 2 0 2610 1 1624312179
+-
+47.74.17.225
+0 2 0 2610 1 1624185371
+-
+ec2-54-178-182-46.ap-northeast-1.compute.amazonaws.com
+0 10 1 14320 1 1623356982
+-
+ec2-52-15-212-3.us-east-2.compute.amazonaws.com
+0 10 1 14321 1 1622539137
+-
+167.99.112.187
+0 3 1 14322 1 1622599735
+/en
+121.5.145.96
+0 2 1 3864 1 1623037865
+/
+81.69.254.180
+0 5 2 7936 2 1624139019
+/
+ec2-18-197-125-181.eu-central-1.compute.amazonaws.com
+0 10 1 14318 1 1623669802
+-
+61.135.15.177
+0 7 7 546561 1 1623666454
+/
+planetlab24.gino-research.net.in.tum.de
+0 6 6 0 6 1624065998
+/
+193.176.85.92
+0 1 1 3654 1 1623063387
+/
+81.69.191.124
+0 3 2 7515 2 1623679435
+/
+ec2-52-192-73-251.ap-northeast-1.compute.amazonaws.com
+0 10 1 14320 1 1623891752
+-
+ip7.ip-213-32-35.eu
+0 12 0 15750 2 1624322108
+-
+ec2-34-236-55-223.compute-1.amazonaws.com
+0 10 1 14322 1 1622922028
+-
+ec2-18-194-196-202.eu-central-1.compute.amazonaws.com
+0 10 1 14321 1 1624044988
+-
+ec2-52-30-16-188.eu-west-1.compute.amazonaws.com
+0 10 1 14320 1 1623575732
+-
+ec2-13-232-96-15.ap-south-1.compute.amazonaws.com
+0 10 1 14322 1 1624131619
+-
+42.192.37.168
+0 2 0 418 1 1623294210
+/
+vlan135-146.aznetwork.net
+0 48 47 522096 1 1623170465
+/en/api/phone-numbers/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+vmi506064.contaboserver.net
+0 2 0 2610 1 1624745755
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://azc.talebyte.com/admin/assets/a3dab60f/css/select2-krajee.css
+0 1
+https://azc.talebyte.com/admin/en/operator/index
+0 3
+- (Direct Request)
+0 234
+https://azc.talebyte.com/admin/en/site/login
+0 9
+https://azc.talebyte.com/en
+0 35
+http://www.azc.talebyte.com/wp-login.php
+0 3
+http://www.azc.talebyte.com
+1 6
+https://azc.talebyte.com/admin/en/phone-numbers/create
+0 12
+http://azc.talebyte.com/wp-login.php
+0 1
+https://azc.talebyte.com/admin/en/phone-numbers/index
+0 1
+https://azc.talebyte.com/admin/assets/c0dadce4/css/bootstrap.css
+0 1
+https://azc.talebyte.com/admin/en/vendors/index
+0 2
+http://azc.talebyte.com
+0 3
+https://azc.talebyte.com/admin/assets/6ed9211e/css/kv-widgets.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+0 10
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 5
+Mozilla/5.0 (Linux; Android 10; LIO-AN00 Build/HUAWEILIO-AN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 10
+Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 73
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36 Mozilla/5.0 (iPad; U; 
+0 10
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.2 Safari/537.36
+0 10
+python-requests/2.24.0
+0 4
+Mozilla/5.0 (Linux; U; Android 9; zh-cn; RMX1901 Build/QKQ1.190918.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.517 Safari/537.36
+0 10
+Mozilla/5.0 (compatible; ThinkBot/0.3.0; +In_the_test_phase,_if_the_spider_brings_you_trouble,_please_add_our_IP_to_the_black
+0 20
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1500.55 Safari/537.36
+0 20
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.16 Safari/537.36
+0 10
+Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+0 10
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 10
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

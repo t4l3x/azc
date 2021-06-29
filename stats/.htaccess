@@ -1,0 +1,7 @@
+AuthName "azc.talebyte.com statistics"
+AuthType Basic
+AuthUserFile /home/talebyte/domains/azc.talebyte.com/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

@@ -1,0 +1,359 @@
+html,
+body {
+    height: 100%;
+}
+
+.wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+}
+
+.wrap > .container {
+    padding: 70px 15px 20px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: "\e151";
+}
+
+a.desc:after {
+    content: "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view td {
+    white-space: nowrap;
+}
+
+.grid-view .filters input,
+.grid-view .filters select {
+    min-width: 50px;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    color: #a94442;
+    background: #fdf7f7;
+    border-left: 3px solid #eed3d7;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+}
+
+/* align the logout "link" (button in form) of the navbar */
+.nav li > form > button.logout {
+    padding: 15px;
+    border: none;
+}
+
+@media(max-width:767px) {
+    .nav li > form > button.logout {
+        display:block;
+        text-align: left;
+        width: 100%;
+        padding: 10px 15px;
+    }
+}
+
+.nav > li > form > button.logout:focus,
+.nav > li > form > button.logout:hover {
+    text-decoration: none;
+}
+
+.nav > li > form > button.logout:focus {
+    outline: none;
+}
+/*search box css start here*/
+.search {
+    /*width:732px;*/
+    height:66px;
+    background-color:#CC193B;
+    border-radius:5px;
+    padding:12px;
+}
+.searchin {
+    /*width:732px;*/
+    height:44px;
+    background-color:#CC193B;
+    border-radius:5px;
+    padding:12px;
+    margin:5px 0 0 190px;
+}
+.cat {
+    width:65%;
+    float:left;
+}
+.code {
+    width:35%;
+    float:left;
+}
+.search select, .searchin select {
+    width:82px;
+    height:38px;
+    font:normal 1.8em/2em Arial, Helvetica, sans-serif;
+    border:2px solid #B50F37;
+    color:#CC193B;
+    border-radius:5px;
+    text-align:center;
+    padding:3px;
+    opacity:.95;
+}
+.search select:hover, .search select:focus, .searchin select:hover, .searchin select:focus, .search-line input:hover, .search-line input:focus, #submit input:hover, #submit input:focus {
+    border:2px solid #CC193B;
+    cursor:pointer;
+    color:#CC193B;
+    opacity:1;
+    outline:none;
+}
+.search-line {
+    /*width:405px;*/
+    /*float:left;*/
+    /*margin-left:10px;*/
+}
+.search-line input {
+    width:99%;
+    height:38px;
+    border:2px solid #B50F37;
+    font:normal 1.8em/1.4em Arial, Helvetica, sans-serif;
+    padding:2px;
+    text-align:center;
+    margin-right:5px;
+    border-radius:5px;
+    color:#CC193B;
+    opacity:.95;
+}
+.search-vacuum {
+    width:2%;
+    height:30px;
+    float:left;
+    border:#fff;
+}
+.search-dot {
+    width: 13.4%;
+    float:left;
+}
+#reset {
+    width:55px;
+    float:left;
+}
+#reset input {
+    width:46px;
+    height:44px;
+    font:normal 2em/1.2em Arial, Helvetica, sans-serif;
+    padding:2px;
+    border-radius:5px;
+    border:2px solid #B50F37;
+    background-color:#fff;
+    color:#CC193B;
+    opacity:.95;
+}
+#reset input:focus, #reset input:hover {
+    border:2px solid #CC193B;
+    cursor:pointer;
+    background-color:#fff;
+    color:#CC193B;
+    outline:none;
+}
+#submit {
+    width:115px;
+    float:left;
+}
+#submit input {
+    width:100px;
+    height:44px;
+    font:normal 1.8em/1.2em Arial, Helvetica, sans-serif;
+    padding:2px;
+    border-radius:5px;
+    border:2px solid #B50F37;
+    background-color:#fff;
+    color:#CC193B;
+    opacity:.95;
+}
+#submit input:hover {
+    background-color:#CC193B;
+    border:2px solid #fff;
+    color:#fff;
+    opacity:1;
+}
+.search-text {
+    /*width:730px;*/
+    margin-top:10px;
+    text-align:right;
+}
+.search-text a {
+    color:#999;
+    font:normal .9em/1.4em Arial, Helvetica, sans-serif;
+    margin-left:20px;
+}
+* {
+    margin:0;
+    padding:0;
+}
+#center {
+    /*width: 756px;*/
+    margin: 0 auto;
+    float: none;
+}
+
+ .btn-search {
+    min-width: 100px;
+    height: 40px;
+    padding: 0 15px;
+    background: linear-gradient(to right, #2c6dd5 0%, #2c6dd5 28%, #ff4b5a 91%, #ff4b5a 100%);
+    white-space: nowrap;
+    border-radius: 20px;
+    font-size: 14px;
+    color: #fff;
+    transition: all .2s ease-out, color .2s ease-out;
+    border: 0;
+    cursor: pointer;
+    font-weight: 400;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+    z-index: 0;
+    position: relative;
+}
+
+ .btn-search:before {
+    border-radius: inherit;
+    background: linear-gradient(45deg, #ff4b5a 0%, #ff4b5a 28%, #2c6dd5 91%, #2c6dd5 100%);
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    width: 100%;
+    z-index: -1;
+    transition: all .2s ease-out, color .2s ease-out;
+}
+
+ .btn-search:hover::before {
+    opacity: 1;
+}
+
+.btn-search:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.group-btn{
+    text-align: center;
+    margin-top: 11px;
+}
+
+
+
+.wrapper {
+
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    /*position: absolute;*/
+    background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3) ;
+    background-size: 180% 180%;
+
+    -webkit-animation: rainbow 18s ease infinite;
+    -z-animation: rainbow 18s ease infinite;
+    -o-animation: rainbow 18s ease infinite;
+    animation: rainbow 18s ease infinite;}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+
+.category{
+    border-bottom: 1px dashed #cc193b99;
+}
+
+.number_list {
+    margin-top: 17px;
+}
+.phone_number{
+    font-size: 16px;
+    line-height: 38px;
+    font-weight: bold;
+    color: darkslategrey;
+}
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map {
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+    margin-top: 52px;
+}
+
+/* Optional: Makes the sample page fill the window. */
